@@ -14,12 +14,12 @@ const CircleButton = styled.button`
 
   z-index: 5;
   cursor: pointer;
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   display: block;
   align-items: center;
   justify-content: center;
-  font-size: 60px;
+  font-size: 50px;
   position: absolute;
   left: 50%;
   bottom: 0px;
@@ -59,7 +59,7 @@ const InsertForm = styled.form`
   padding-left: 32px;
   padding-top: 32px;
   padding-right: 32px;
-  padding-bottom: 72px;
+  padding-bottom: 52px;
 
   border-bottom-left-radius: 16px;
   border-bottom-right-radius: 16px;
