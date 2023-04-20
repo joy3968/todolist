@@ -10,7 +10,7 @@ const TodoHeadBlock = styled.div`
   border-bottom: 1px solid #e9ecef;
   h1 {
     margin: 0;
-    font-size: 36px;
+    font-size: 30px;
     color: #343a40;
   }
   .day {

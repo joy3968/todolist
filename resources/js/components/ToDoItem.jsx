@@ -29,11 +29,11 @@ const TodoItemBlock = styled.div`
 `;
 
 const CheckCircle = styled.div`
-  width: 32px;
-  height: 32px;
+  width: 25px;
+  height: 25px;
   border-radius: 16px;
   border: 1px solid #ced4da;
-  font-size: 24px;
+  font-size: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -49,7 +49,7 @@ const CheckCircle = styled.div`
 
 const Text = styled.div`
   flex: 1;
-  font-size: 21px;
+  font-size: 18px;
   color: #495057;
   ${props =>
     props.done &&
